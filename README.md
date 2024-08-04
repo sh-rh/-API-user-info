@@ -20,7 +20,7 @@
 
 1. Клонируйте репозиторий:
    
-   git clone https://github.com/sh-rh/-API-user-info.git
+   git clone https://github.com/sh-rh/user-info-app-python-fastapi.git
    
 2. Установите зависимости:
 
