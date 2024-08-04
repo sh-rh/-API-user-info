@@ -20,10 +20,9 @@
 ## Установка и запуск
 
 1. Клонируйте репозиторий:
-   
-   
+   ```
    git clone https://github.com/sh-rh/user-info-app-python-fastapi.git
-   
+   ```
 2. Перейдите в каталог проекта:
    ```
    cd user-info-app-python-fastapi
@@ -41,6 +40,6 @@
 
 Для запуска тестов используйте команду:
 
-```
-pytest
-```
+   ```
+   pytest
+   ```
