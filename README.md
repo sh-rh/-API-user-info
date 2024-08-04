@@ -25,22 +25,22 @@
    git clone https://github.com/sh-rh/user-info-app-python-fastapi.git
    
 2. Перейдите в каталог проекта:
-   
+   ```
    cd user-info-app-python-fastapi
-
+   ```
 3. Соберите Docker-образ
-
+   ```
    docker build
-
+   ```
 4. Запустите Docker-образ
-
+   ```
    docker run
-
+   ```
  - API будет доступен по адресу localhost:8000
 
 
 Для запуска тестов используйте команду:
 
-```bash
+```
 pytest
 ```
